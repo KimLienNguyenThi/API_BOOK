@@ -1,0 +1,110 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img_web\1119-BKS-Hoby-superJumbo.jpg" />
+    <None Include="wwwroot\img_web\199MayHoiAyLamGi.jpg" />
+    <None Include="wwwroot\img_web\450NouveauxExercicesVocabulaireNiveaudebutant.jpg" />
+    <None Include="wwwroot\img_web\90%25TreThongMinh.jpg" />
+    <None Include="wwwroot\img_web\999LaThuGuiChoChinhMinh.jpg" />
+    <None Include="wwwroot\img_web\avticon.jpg" />
+    <None Include="wwwroot\img_web\BiXanhVaBongTim.jpg" />
+    <None Include="wwwroot\img_web\CanhNgo.jpg" />
+    <None Include="wwwroot\img_web\CayCamNgotCuaToi.jpg" />
+    <None Include="wwwroot\img_web\ChoToiXin1VeDiTuoiTho.jpg" />
+    <None Include="wwwroot\img_web\ChuaKipLonDaTruongThanh.jpg" />
+    <None Include="wwwroot\img_web\ChuyenKeRangCoNangVaToi.jpg" />
+    <None Include="wwwroot\img_web\CN8%28CTST%29.jpg" />
+    <None Include="wwwroot\img_web\ConChimXanhBiecBayVe.jpg" />
+    <None Include="wwwroot\img_web\CungBanTruongThanh.jpg" />
+    <None Include="wwwroot\img_web\DamNghiLai.jpg" />
+    <None Include="wwwroot\img_web\DamTreODaiDuongDen.jpg" />
+    <None Include="wwwroot\img_web\DatRungPhuongNam.jpg" />
+    <None Include="wwwroot\img_web\Dear_Darling.jpg" />
+    <None Include="wwwroot\img_web\Destination_B1_GrammarAndVocabularywithAnswerKey.jpg" />
+    <None Include="wwwroot\img_web\DuaTreHieuChuyenThuongKhongCoKeoAn.jpg" />
+    <None Include="wwwroot\img_web\GiaoTrinhChuanHSK1.jpg" />
+    <None Include="wwwroot\img_web\HaiHuocMotChutTheGioiSeKhacDi.jpg" />
+    <None Include="wwwroot\img_web\Ielts_27f55c8e-9ae0-421c-88c0-a5e905c36963.jpg" />
+    <None Include="wwwroot\img_web\LichSuVaDiaLi6.jpg" />
+    <None Include="wwwroot\img_web\MoiLanVapNgaLaMotLanTruongThanh.jpg" />
+    <None Include="wwwroot\img_web\MuaHeKhongTen.jpg" />
+    <None Include="wwwroot\img_web\NhaGiaKim.jpg" />
+    <None Include="wwwroot\img_web\NobitaVaVungDatLyTuongTrenBauTroi.jpg" />
+    <None Include="wwwroot\img_web\OngGiaNoel_4b12f95e-8a1c-4075-9a20-9e6c8c291ed8.jpg" />
+    <None Include="wwwroot\img_web\OngGiaNoel_9447095a-99e7-44df-a346-2d672b932af9.jpg" />
+    <None Include="wwwroot\img_web\OngGiaVaBienCa.jpg" />
+    <None Include="wwwroot\img_web\Robertson.jpg" />
+    <None Include="wwwroot\img_web\sach.jpg" />
+    <None Include="wwwroot\img_web\SinhHoc11%28CTST%29.jpg" />
+    <None Include="wwwroot\img_web\TA1_GlobalSuccess_SBT.jpg" />
+    <None Include="wwwroot\img_web\TAL3_FamilyAndFriends%28National Edition%29_Workbook%282023%29.jpg" />
+    <None Include="wwwroot\img_web\TamQuocDienNghia.jpg" />
+    <None Include="wwwroot\img_web\ThanDongDatViet2_TNSP.jpg" />
+    <None Include="wwwroot\img_web\ThayDoiCSVoiNhanSoHoc.jpg" />
+    <None Include="wwwroot\img_web\ThieuNu%28Shoujo%29.jpg" />
+    <None Include="wwwroot\img_web\Tho_bay_mau.jpg" />
+    <None Include="wwwroot\img_web\Thuong.jpg" />
+    <None Include="wwwroot\img_web\Toan4_Tap1%28CTST%29.jpg" />
+    <None Include="wwwroot\img_web\TongOnNguPhapTiengAnh%28TB2023%29.jpg" />
+    <None Include="wwwroot\img_web\TrangQuynh_402_OngTomBaTep.jpg" />
+    <None Include="wwwroot\img_web\TruyenTranhVN_SoDua.jpg" />
+    <None Include="wwwroot\img_web\VT2.jpg" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>
