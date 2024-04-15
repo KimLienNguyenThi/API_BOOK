@@ -7839,19 +7839,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VoGiaHuy\\.nuget\\packages\\": {}
+    "C:\\Users\\Lien\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "D:\\Nam3Ky2\\API_BOOK\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\VoGiaHuy\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebApp\\obj\\",
+      "projectPath": "D:\\Nam3Ky2\\API_BOOK\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\Lien\\.nuget\\packages\\",
+      "outputPath": "D:\\Nam3Ky2\\API_BOOK\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VoGiaHuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7920,7 +7920,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

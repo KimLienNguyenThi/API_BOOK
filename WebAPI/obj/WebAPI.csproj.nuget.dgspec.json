@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj": {}
+    "D:\\Nam3Ky2\\API_BOOK\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj": {
+    "D:\\Nam3Ky2\\API_BOOK\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Nam3Ky2\\API_BOOK\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\VoGiaHuy\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\obj\\",
+        "projectPath": "D:\\Nam3Ky2\\API_BOOK\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Lien\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam3Ky2\\API_BOOK\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VoGiaHuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lien\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -34,7 +34,7 @@ namespace WebAPI.Controllers
             try
             {
                 var sachList = await _context.Saches.Include(x => x.TtSaches).ToListAsync();
-
+                
                 List<SachDTO> sachDtos = _mapper.Map<List<SachDTO>>(sachList);
 
                 return Ok(sachDtos);
@@ -81,10 +81,10 @@ namespace WebAPI.Controllers
                     return NotFound(new { success = false, message = "Không tìm thấy sách nào phù hợp." });
                 }
             }
-            catch (Exception)
+            catch (Exception e)
             {
                 // Xử lý ngoại lệ khi tìm kiếm sách
-                return StatusCode(500, new { success = false, message = "Đã xảy ra lỗi khi tìm kiếm sách." });
+                return StatusCode(500, new { success = false, message = "Đã xảy ra lỗi khi tìm kiếm sách. " + e.Message});
             }
         }
 
