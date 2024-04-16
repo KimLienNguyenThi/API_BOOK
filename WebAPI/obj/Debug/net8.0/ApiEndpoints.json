@@ -113,5 +113,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.BorrowBookController",
+    "Method": "BorrowBook",
+    "RelativePath": "api/BorrowBook/BorrowBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "WebAPI.DTOs.BorrowingData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.BorrowBookController",
+    "Method": "GetBooksForBorrow",
+    "RelativePath": "api/BorrowBook/GetBooksForBorrow",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maSach",
+        "Type": "System.Int32[]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

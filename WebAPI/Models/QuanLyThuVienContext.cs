@@ -169,7 +169,7 @@ public partial class QuanLyThuVienContext : DbContext
 
             entity.ToTable("DkiMuonSach");
 
-            entity.Property(e => e.MaDk).HasColumnName("MaDK");
+            entity.Property(e => e.MaDk).HasColumnName("MaDK").ValueGeneratedOnAdd(); ;
             entity.Property(e => e.NgayDkmuon).HasColumnName("NgayDKMuon");
             entity.Property(e => e.Sdt)
                 .HasMaxLength(50)

@@ -27,7 +27,6 @@ namespace WebAPI.Controllers
         }
 
         // GET: api/Book
-        // Trong action GetBook của controller
         [HttpGet]
         public async Task<IActionResult> GetAllBook()
         {
@@ -170,7 +169,6 @@ namespace WebAPI.Controllers
         }
 
         // POST: api/Book
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Sach>> PostBook(Sach sach)
         {

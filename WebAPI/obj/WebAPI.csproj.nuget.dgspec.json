@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj": {}
+    "D:\\CODE\\API\\API_Book\\API_BOOK\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj": {
+    "D:\\CODE\\API\\API_Book\\API_BOOK\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\WebAPI.csproj",
+        "projectPath": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\VoGiaHuy\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebAPI\\obj\\",
+        "outputPath": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VoGiaHuy\\AppData\\Roaming\\NuGet\\NuGet.Config",

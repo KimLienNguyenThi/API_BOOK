@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using WebAPI.DTOs;
 using WebApp.Models;
+using X.PagedList;
 using static Azure.Core.HttpHeader;
 
 namespace WebApp.Controllers
@@ -18,7 +19,7 @@ namespace WebApp.Controllers
 
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? page)
         {
             List<SachDTO> bookList = new List<SachDTO>();
             HttpResponseMessage response = _client.GetAsync(_client.BaseAddress + "/Book/GetAllBook").Result;
@@ -28,7 +29,23 @@ namespace WebApp.Controllers
                 string data = response.Content.ReadAsStringAsync().Result;
                 bookList = JsonConvert.DeserializeObject<List<SachDTO>>(data);
             }
-            return View(bookList);
+
+
+            // Phân trang
+            // Kích thước trang (số lượng mục trên mỗi trang)
+            int pageSize = 9;
+
+            // Số trang hiện tại (mặc định là 1 nếu không có giá trị)
+            int pageNumber = (page ?? 1);
+
+            // Sử dụng PagedList để chia danh sách thành các trang
+            IPagedList<SachDTO> pagedListSach = bookList.ToPagedList(pageNumber, pageSize);
+
+            // Truyền thông tin phân trang vào ViewBag để sử dụng trong View
+            ViewBag.CurrentPage = pageNumber;
+            ViewBag.TotalPages = pagedListSach.PageCount;
+
+            return View(pagedListSach);
         }
 
         [HttpPost]
@@ -56,7 +73,7 @@ namespace WebApp.Controllers
 
             try
             {
-                HttpResponseMessage response = _client.GetAsync($"/Book/GetBookByCategory/{ngonNgu}/{theLoai}/{namXB}").Result;
+                HttpResponseMessage response = _client.GetAsync(_client.BaseAddress + $"/Book/GetBookByCategory/{ngonNgu}/{theLoai}/{namXB}").Result;
 
                 if (response.IsSuccessStatusCode)
                 {

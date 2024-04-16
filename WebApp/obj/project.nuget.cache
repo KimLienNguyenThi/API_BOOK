@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1C/bCgBMB5Oo9WRqO1ziPCHFaBuplCa47XzU05xvfpYst7Ymjj800vxCH+SDqZy7Gnw3YmG3XAeoqcp2otyTQ==",
+  "dgSpecHash": "C7/Qp5WYzz4GLA/DvYwNzzbaAFDNmh0IN1UsJUf3zREL6oi+MIQOXymseGMOUEJEBz0J+EKfP62E+IrRiQ+VBg==",
   "success": true,
-  "projectFilePath": "D:\\CODE\\API\\API_Book\\WebAPI_Book\\WebApp\\WebApp.csproj",
+  "projectFilePath": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VoGiaHuy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\VoGiaHuy\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -162,7 +162,9 @@
     "C:\\Users\\VoGiaHuy\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\VoGiaHuy\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "C:\\Users\\VoGiaHuy\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\VoGiaHuy\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\VoGiaHuy\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\VoGiaHuy\\.nuget\\packages\\x.pagedlist\\9.1.2\\x.pagedlist.9.1.2.nupkg.sha512",
+    "C:\\Users\\VoGiaHuy\\.nuget\\packages\\x.pagedlist.mvc.core\\9.1.2\\x.pagedlist.mvc.core.9.1.2.nupkg.sha512"
   ],
   "logs": []
 }
