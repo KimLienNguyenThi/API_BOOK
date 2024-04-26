@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\borrowbook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|d:\\code\\api\\api_book\\api_book\\webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|D:\\CODE\\API\\API_Book\\API_BOOK\\webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|d:\\code\\api\\api_book\\api_book\\webapp\\controllers\\borrowbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|D:\\CODE\\API\\API_Book\\API_BOOK\\webapp\\controllers\\borrowbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\borrowbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|d:\\code\\api\\api_book\\api_book\\webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|D:\\CODE\\API\\API_Book\\API_BOOK\\webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95F9A5E1-6D82-4FA1-8C25-443A27DF9E0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "WebApp\\Views\\BorrowBook\\Index.cshtml",
               "ToolTip": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebApp\\Views\\BorrowBook\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\BorrowBook\\Index.cshtml",
-              "ViewState": "AQIAALkAAAAAAAAAAAAcwMEAAAAAAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-15T17:42:24.897Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "WebApp\\Controllers\\BorrowBookController.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAcwC0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:41:53.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:41:53.839Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "WebApp\\Controllers\\BookController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAcwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:42:26.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:42:26.151Z"
             },
             {
               "$type": "Document",
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "WebApp\\Views\\Book\\Index.cshtml",
               "ToolTip": "D:\\CODE\\API\\API_Book\\API_BOOK\\WebApp\\Views\\Book\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJMAAAAmAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAJMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-15T16:42:17.865Z",
               "EditorCaption": ""
